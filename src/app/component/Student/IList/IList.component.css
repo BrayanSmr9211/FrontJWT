@@ -1,0 +1,59 @@
+table {
+  width: 100%;
+}
+
+td,
+th {
+  width: 15%;
+}
+
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.delete {
+  cursor: pointer;
+  color: #E15639
+}
+
+.edit {
+  cursor: pointer;
+  color: #1878B0
+}
+
+.search {
+  cursor: pointer;
+}
+
+.add {
+  font-size: 10px;
+  line-height: 28px;
+}
+
+.demo-toggles {
+  display: flex;
+  flex-direction: column;
+}
+
+.demo-toggles * {
+  margin-bottom: 16px;
+}
+
+.demo-options {
+  display: flex;
+  flex-direction: column;
+  width: 600px;
+}
+.mat-form-field {
+  font-size: 14px;
+  width: 100%;
+}
+
+.demo-data * {
+  margin: 16px 0;
+}
+
+.demo-paginator {
+  width: 600px;
+}
